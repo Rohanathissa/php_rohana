@@ -32,7 +32,7 @@ class SalesTeamesController extends Controller
      */
     public function create()
     {
-        return view('create');
+        return view('salesTeames');
     }
 
     /**
